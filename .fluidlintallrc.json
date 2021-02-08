@@ -1,0 +1,10 @@
+{
+    "eslint": {
+        "js": {
+            "includes": ["./.eleventy.js"]
+        }
+    },
+    "markdownlint": {
+        "excludes": ["./CHANGELOG.md"]
+    }
+}
